@@ -11,13 +11,13 @@ pour concevoir une solution innovante.
 
 MOTIVATION ET OBJECTIFS
 
-      • Motivation
+       Motivation
 - Délestage récurrent dans les zones résidentielles et universitaires.
 - Promouvoir une activité sportive saine et durable, tout en contribuant à la 
 transition vers une société à faible émission de carbone.
 
 
-      • Objectifs
+        Objectifs
 - Fournir une solution énergétique stable pour les résidents et les étudiants afin de 
 minimiser l'impact du délestage sur leur vie quotidienne et académique
 - Générer de l'énergie propre : Concevoir des équipements sportifs qui transforment 
@@ -31,7 +31,8 @@ encourageant la créativité et la collaboration avec des experts en ingénierie
 énergie.
 
 
-    DIFFERENTES ETAPES DU PROJET
+          DIFFERENTES ETAPES DU PROJET
+  
     Etape 1
 Recherche et développement : Effectuer une recherche approfondie sur les technologies 
 existantes, les matériaux et les concepts de conception pour l'intégration de la génération 
@@ -51,7 +52,7 @@ fabrication des dispositifs Axe Energy à associer aux différents équipements 
 les produits sur le marché.
 
 
-    RESSOURCES ET GESTION
+          RESSOURCES ET GESTION
 Le projet nécessitera des ressources financières, matérielles et humaines pour réussir. Il sera 
 important de constituer une équipe multidisciplinaire comprenant des ingénieurs, des 
 concepteurs, des spécialistes du marketing et des experts en énergie.
@@ -59,7 +60,7 @@ La gestion du projet impliquera une planification minutieuse, une gestion effica
 ressources, des efforts de coordination et une communication transparente au sein de l'équipe.
 
 
-    IMPACT ET BENEFICIAIRE
+          IMPACT ET BENEFICIAIRE
 Le projet Axe Energy a le potentiel d'avoir un impact positif à plusieurs niveaux. Voici 
 quelques-uns des bénéficiaires :
 Sportifs : Les sportifs pourront utiliser des équipements sportifs qui allient performance 
