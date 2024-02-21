@@ -9,7 +9,7 @@ renouvelable. Notre vision est d'allier passion pour le sport et responsabilité
 pour concevoir une solution innovante.
 
 
-    MOTIVATION ET OBJECTIFS
+MOTIVATION ET OBJECTIFS
 
         Motivation
 - Délestage récurrent dans les zones résidentielles et universitaires.
