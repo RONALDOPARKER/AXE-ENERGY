@@ -11,11 +11,13 @@ pour concevoir une solution innovante.
 
 MOTIVATION ET OBJECTIFS
 
-    • Motivation
+      • Motivation
 - Délestage récurrent dans les zones résidentielles et universitaires.
 - Promouvoir une activité sportive saine et durable, tout en contribuant à la 
 transition vers une société à faible émission de carbone.
-    • Objectifs
+
+
+      • Objectifs
 - Fournir une solution énergétique stable pour les résidents et les étudiants afin de 
 minimiser l'impact du délestage sur leur vie quotidienne et académique
 - Générer de l'énergie propre : Concevoir des équipements sportifs qui transforment 
