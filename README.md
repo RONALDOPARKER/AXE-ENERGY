@@ -11,7 +11,7 @@ pour concevoir une solution innovante.
 
 MOTIVATION ET OBJECTIFS
 
-        Motivation
+       Motivation
 - Délestage récurrent dans les zones résidentielles et universitaires.
 - Promouvoir une activité sportive saine et durable, tout en contribuant à la 
 transition vers une société à faible émission de carbone.
